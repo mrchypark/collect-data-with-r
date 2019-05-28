@@ -23,12 +23,11 @@ knitr::opts_chunk$set(cache = F, fig.height = 5)
 
 class: center, middle, title-slide
 
-## R을 이용한 데이터 크롤링 .small[with 데이터 저널리즘 코리아]
+## R을 이용한 데이터 크롤링 
 
-### <https://mrchypark.github.io/djk-collect-data-with-r>
+### <https://mrchypark.github.io/collect-data-with-r>
 
-#### [[의견 및 오류 신고]](https://github.com/mrchypark/djk-collect-data-with-r/issues/new)
-#### [스타누르기](https://github.com/mrchypark/djk-collect-data-with-r)는 컨텐츠 제작자를 춤추게 합니다.
+#### [[의견 및 오류 신고]](https://github.com/mrchypark/collect-data-with-r/issues/new)
 
 ### 박찬엽
 
