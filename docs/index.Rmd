@@ -74,11 +74,18 @@ class: center, middle, title-slide
 - R: <https://cloud.r-project.org/>
 - Rstudio: <https://www.rstudio.com/products/rstudio/download/#download>
 
+## 크롤링에 대한 참고 자료
+
+- 데이터홀릭 팟케스트 <http://www.podbbang.com/ch/1771386>
+- 크롤링 특집: 9화 (2019년 6월 3일), 10화 (2019년 6월 10일)    
+- 크롤링 영상 강의 <https://youtu.be/Me0bvPo9KUc>
+- 중앙일보 크롤링 코드 예시 <https://github.com/mrchypark/joins_crawler>
+
 ---
 
 class: center, middle, title-slide
 
-## .pen-p[R로 웹 데이터를 가져오는 4가지 방법]
+## .pen-p[R로 웹 데이터를 가져오는 방법]
 
 ---
 class: center, middle, title-slide
