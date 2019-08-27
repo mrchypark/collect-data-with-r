@@ -809,3 +809,14 @@ class: center, middle, title-slide
 ### <https://mrchypark.github.io/collect-data-with-r>
 
 #### [[github]](https://github.com/mrchypark/collect-data-with-r) [[의견 및 오류 신고]](https://github.com/mrchypark/collect-data-with-r/issues/new)
+
+
+[keyring]: https://github.com/r-lib/keyring
+[pushbullet]: https://www.pushbullet.com/
+[clipr]: https://github.com/mdlincoln/clipr
+[taskscheduleR]: https://github.com/bnosac/taskscheduleR
+[KeyboardSimulator]: https://github.com/ChiHangChen/KeyboardSimulator
+[Rpushbullet]: https://github.com/eddelbuettel/rpushbullet
+[mail]: mailto:mrchypark@gmail.com
+[fb]: https://www.facebook.com/mrchypark
+[github]: https://github.com/mrchypark
