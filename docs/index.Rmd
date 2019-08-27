@@ -20,6 +20,12 @@ output:
 knitr::opts_chunk$set(cache = F, fig.height = 5)
 ```
 
+layout: true
+
+background-image: url(https://user-images.githubusercontent.com/6179259/60290723-50002480-9954-11e9-96fe-3fbd4d7d11d9.png)
+background-size: cover
+
+---
 
 class: center, middle, title-slide
 
@@ -29,9 +35,9 @@ class: center, middle, title-slide
 
 #### [[의견 및 오류 신고]](https://github.com/mrchypark/collect-data-with-r/issues/new)
 
-### 박찬엽
+### 박찬엽 [`r fontawesome::fa("at", fill="#FF1B70")`][mail] [`r fontawesome::fa("facebook-f", fill="#FF1B70")`][fb] [`r fontawesome::fa("github", fill="#FF1B70")`][github]
 
-### 2019년 5월 31일
+### .small[2019년 5월 31일] .tiny[update 2019년 7월 27일]
 
 ---
 class: split-50 
